@@ -1,0 +1,17 @@
+[fishingpoint_papunika]
+point1 = (1297, 798)
+point2 = (1147, 866)
+point3 = (930, 867)
+
+[lostark_fishing]
+width = 200
+heght = 200
+wait_time = 5
+mark_image_name = LA_exclamation_mark.png
+detect_cnt = 120
+
+[fishingpoint_elgacia]
+point1 = (1840, 391)
+point2 = (1629, 384)
+point3 = (1440, 435)
+
